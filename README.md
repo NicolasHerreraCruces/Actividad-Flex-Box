@@ -1,2 +1,4 @@
-# Actividad-Guía-Flex-Box
-Nicolás René Herrera Cruces, 19808871416, ICI-I
+## Actividad Flexbox
+Aplicando las propiedades aprendidas de CSS Flexbox conseguir la siguiente estructura.
+
+![Resultado](./resultado.png)
